@@ -1,2 +1,2 @@
 # yangyulin.github.io
-Yulin Yang's personal websit
+Yulin Yang's personal website
