@@ -1,5 +1,6 @@
-# yangyulin.github.io
-Yulin Yang's personal website
+# Yulin Yang's Personal Website
+
+The Summary of Projects
 
 
 |               Project               |                          Key Idea                         |        Publication       |                                               Paper                                              |
