@@ -9,10 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33af6321-c57f-44f3-9625-fb31a87ab27c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Lee2020IROS.bib" beforeDir="false" afterPath="$PROJECT_DIR$/data/Lee2020IROS.bib" afterDir="false" />
-    </list>
+    <list default="true" id="33af6321-c57f-44f3-9625-fb31a87ab27c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +60,7 @@
       <workItem from="1620921002341" duration="8141000" />
       <workItem from="1621365431937" duration="1435000" />
       <workItem from="1621392095456" duration="4541000" />
-      <workItem from="1621647692734" duration="7221000" />
+      <workItem from="1621647692734" duration="8013000" />
     </task>
     <servers />
   </component>
